@@ -1,7 +1,8 @@
 ## Passo a passo para rodar o projeto
 
 Versões utilizadas
-```PHP
+```
+PHP
 8.1.29
 ```
 
