@@ -4,17 +4,11 @@ Clone o projeto
 git clone https://github.com/LeoMendes475/task-manager-back.git
 ```
 ```sh
-cd laravel-10/
+cd task-manager-back
 ```
 
 
-Crie o Arquivo .env
-```sh
-cp .env.example .env
-```
-
-
-Atualize essas variáveis de ambiente no arquivo .env
+Crie o arquivo .env e atualize essas variáveis de ambiente no arquivo
 ```dosini
 APP_NAME="Task manager"
 APP_URL=http://localhost:8000
