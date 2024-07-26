@@ -32,5 +32,10 @@ Gere a key do projeto Laravel
 php artisan key:generate
 ```
 
+Rode o projeto
+```sh
+php artisan serve
+```
+
 Acesse o projeto
 [http://localhost:8000](http://localhost:8000)
