@@ -10,16 +10,11 @@ cd task-manager-back
 
 Crie o arquivo .env e atualize essas variáveis de ambiente no arquivo
 ```dosini
-APP_NAME="Task manager"
-APP_URL=http://localhost:8000
-
-CACHE_DRIVER=redis
-QUEUE_CONNECTION=redis
-SESSION_DRIVER=redis
-
-REDIS_HOST=redis
-REDIS_PASSWORD=null
-REDIS_PORT=6379
+APP_NAME='taskmanager'
+APP_ENV=local
+APP_KEY=
+APP_DEBUG=true
+APP_URL=http://localhost
 ```
 
 Instalar dependências do projeto
