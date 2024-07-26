@@ -1,4 +1,10 @@
 ## Passo a passo para rodar o projeto
+
+Versões utilizadas
+```PHP
+8.1.29
+```
+
 Clone o projeto
 ```sh
 git clone https://github.com/LeoMendes475/task-manager-back.git
