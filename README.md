@@ -1,7 +1,7 @@
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
-git clone https://github.com/especializati/curso-de-laravel-10.git laravel-10
+git clone [https://github.com/LeoMendes475/task-manager-back.git](https://github.com/LeoMendes475/task-manager-back.git)
 ```
 ```sh
 cd laravel-10/
@@ -16,7 +16,7 @@ cp .env.example .env
 
 Atualize essas variáveis de ambiente no arquivo .env
 ```dosini
-APP_NAME="Especializa Ti"
+APP_NAME="Task manager"
 APP_URL=http://localhost:8000
 
 CACHE_DRIVER=redis
