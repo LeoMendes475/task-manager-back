@@ -14,7 +14,7 @@ APP_NAME='taskmanager'
 APP_ENV=local
 APP_KEY=
 APP_DEBUG=true
-APP_URL=http://localhost
+APP_URL=http://localhost:8000
 ```
 
 Instalar dependências do projeto
