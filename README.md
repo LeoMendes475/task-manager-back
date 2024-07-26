@@ -1,7 +1,7 @@
 ## Passo a passo para rodar o projeto
 Clone o projeto
 ```sh
-git clone [https://github.com/LeoMendes475/task-manager-back.git](https://github.com/LeoMendes475/task-manager-back.git)
+git clone https://github.com/LeoMendes475/task-manager-back.git
 ```
 ```sh
 cd laravel-10/
